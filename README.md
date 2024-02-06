@@ -1,5 +1,8 @@
 # Projet Sciences des Données et de la Décision (SDD)
 
+GitHub : https://github.com/anonymusSDD/DANN_notebook
+Google Colab : https://colab.research.google.com/github/anonymusSDD/DANN_notebook/blob/main/notebook_DANN.ipynb?hl=fr
+
 ## Contexte
 
 Ce projet a été réalisé dans le cadre de ma dernière année en Sciences des Données et de la Décision (SDD). L'objectif principal est de développer une compréhension approfondie et de créer un cours éducatif basé sur l'article scientifique *Domain-Adversarial Training of Neural Networks*, disponible sur [arXiv](https://arxiv.org/abs/1505.07818).
@@ -35,5 +38,5 @@ Ce projet est ouvert à la contribution de la communauté académique. Les sugge
 
 ## Contact
 
-*Anonyme* TEST
+*Anonyme*
 
