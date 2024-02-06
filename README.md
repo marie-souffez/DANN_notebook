@@ -1,7 +1,7 @@
 # Projet Sciences des Données et de la Décision (SDD)
 
-GitHub : https://github.com/anonymusSDD/DANN_notebook
-Google Colab : https://colab.research.google.com/github/anonymusSDD/DANN_notebook/blob/main/notebook_DANN.ipynb?hl=fr
+- GitHub : https://github.com/anonymusSDD/DANN_notebook
+- Google Colab : https://colab.research.google.com/github/anonymusSDD/DANN_notebook/blob/main/notebook_DANN.ipynb?hl=fr
 
 ## Contexte
 
@@ -38,5 +38,5 @@ Ce projet est ouvert à la contribution de la communauté académique. Les sugge
 
 ## Contact
 
-*Anonyme*
+Anonyme
 
