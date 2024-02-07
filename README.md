@@ -1,7 +1,9 @@
 # Projet Sciences des Données et de la Décision (SDD)
 
 - GitHub : https://github.com/anonymusSDD/DANN_notebook
-- Google Colab : https://colab.research.google.com/github/anonymusSDD/DANN_notebook/blob/main/notebook_DANN.ipynb?hl=fr
+- Google Colab (version vide) : https://colab.research.google.com/github/anonymusSDD/DANN_notebook/blob/main/notebook_DANN_empty.ipynb?hl=fr
+
+Une version vide (*notebook_DANN_empty.ipynb*) et une version complétée avec les sorties de code (*notebook_DANN_complete.ipynb*) existent.
 
 ## Contexte
 
